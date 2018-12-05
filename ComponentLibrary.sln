@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentLibrary", "ComponentLibrary\ComponentLibrary.csproj", "{F6EC3B13-BECB-4B13-82B2-64D2218B317A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileDBExchange", "FileDBExchange\FileDBExchange.csproj", "{A480264C-0CC2-4A79-9556-321DDD75A999}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentTester", "ComponentTester\ComponentTester.csproj", "{2039E7CF-2BA5-4853-85F6-4AD911B0F372}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F6EC3B13-BECB-4B13-82B2-64D2218B317A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F6EC3B13-BECB-4B13-82B2-64D2218B317A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F6EC3B13-BECB-4B13-82B2-64D2218B317A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F6EC3B13-BECB-4B13-82B2-64D2218B317A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A480264C-0CC2-4A79-9556-321DDD75A999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A480264C-0CC2-4A79-9556-321DDD75A999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A480264C-0CC2-4A79-9556-321DDD75A999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A480264C-0CC2-4A79-9556-321DDD75A999}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2039E7CF-2BA5-4853-85F6-4AD911B0F372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2039E7CF-2BA5-4853-85F6-4AD911B0F372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2039E7CF-2BA5-4853-85F6-4AD911B0F372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2039E7CF-2BA5-4853-85F6-4AD911B0F372}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

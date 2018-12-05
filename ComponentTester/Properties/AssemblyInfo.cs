@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ComponentLibrary")]
+[assembly: AssemblyTitle("ComponentTester")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Agility")]
-[assembly: AssemblyProduct("ComponentLibrary")]
+[assembly: AssemblyProduct("ComponentTester")]
 [assembly: AssemblyCopyright("Copyright © Agility 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("f6ec3b13-becb-4b13-82b2-64d2218b317a")]
+[assembly: Guid("2039e7cf-2ba5-4853-85f6-4ad911b0f372")]
 
 // Version information for an assembly consists of the following four values:
 //
