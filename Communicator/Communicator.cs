@@ -11,9 +11,9 @@ namespace Communicator
 {
     public class Communicator
     {
-        CommunicatorResponse CR = new CommunicatorResponse() { Status = false };
+        ActionResponse CR = new ActionResponse() { Status = false };
 
-        public CommunicatorResponse SendEmail(string ToEmailId, string Subject, bool IsHTMLBody, 
+        public ActionResponse SendEmail(string ToEmailId, string Subject, bool IsHTMLBody, 
             string MessageBody, string MobileNum, string FirstName, string LastName, 
             string FromEmailId,string FromEmailPassword,string FromEmailDomain, string SenderSignature, string ExcahangeServer,
             int ExchangePort,string SenderEmailDisplayName)
@@ -105,7 +105,7 @@ namespace Communicator
 
     }
 
-    public class CommunicatorResponse
+    public class ActionResponse
     {
         public bool Status { get; set; }
         public string Message { get; set; }
