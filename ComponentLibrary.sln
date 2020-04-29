@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentTester", "Componen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTableCollectionOfObjectsExchange", "DataTableCollectionOfObjectsExchange\DataTableCollectionOfObjectsExchange.csproj", "{015C8D8E-3C5D-47A2-883F-29D11DB7571E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Communicator", "Communicator\Communicator.csproj", "{A0002922-A7EA-4E0D-8B2B-41B433713C65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{015C8D8E-3C5D-47A2-883F-29D11DB7571E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{015C8D8E-3C5D-47A2-883F-29D11DB7571E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{015C8D8E-3C5D-47A2-883F-29D11DB7571E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0002922-A7EA-4E0D-8B2B-41B433713C65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0002922-A7EA-4E0D-8B2B-41B433713C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0002922-A7EA-4E0D-8B2B-41B433713C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0002922-A7EA-4E0D-8B2B-41B433713C65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
