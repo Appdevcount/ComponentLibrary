@@ -516,7 +516,6 @@ namespace FileUpDownHandler
         //        }
 
     }
-    public class FileUpDownHandlerResponse
     public static class FileInfoExtensions
     {
         /// <summary>
